@@ -1,0 +1,377 @@
+[
+    {
+        "name": "Special Agent Dale Cooper",
+        "description": "Investigates the murder of Laura Palmer using unorthodox methods, falls in love with Twin Peaks and all its rural life, fascinated with the paranormal. He practices Buddhism.",
+        "actor": "Kyle MacLachlan"
+    },
+    {
+        "name": "Albert Rosenfield",
+        "description": "Abrasive forensics expert, whose arrogant façade hides a spiritual nature",
+        "actor": "Miguel Ferrer"
+    },
+    {
+        "name": "Chester Desmond",
+        "description": "Investigates murder of Teresa Banks, mysteriously disappears",
+        "actor": "Chris Isaak"
+    },
+    {
+        "name": "Sam Stanley",
+        "description": "Forensics specialist, assists Desmond in the investigation of Teresa Banks' murder",
+        "actor": "Kiefer Sutherland"
+    },
+    {
+        "name": "Phillip Jeffries",
+        "description": "Long-lost FBI agent, who knows of the Lodges and their inhabitants",
+        "actor": "David Bowie"
+    },
+    {
+        "name": "Roger Hardy",
+        "description": "Agent working for Internal Affairs who temporarily suspends Cooper from the FBI.",
+        "actor": "Clarence Williams III"
+    },
+    {
+        "name": "Gordon Cole",
+        "description": "Regional Bureau Chief, known to shout because he is hard-of-hearing",
+        "actor": "David Lynch"
+    },
+    {
+        "name": "Dennis/Denise Bryson",
+        "description": "Transvestite DEA agent who investigates drug allegations against Dale Cooper",
+        "actor": "David Duchovny"
+    },
+    {
+        "name": "Diane",
+        "description": "Agent Cooper's secretary; he starts most of his voice memos by addressing her by name. She is neither seen nor heard.",
+        "actor": "-"
+    },
+    {
+        "name": "Sheriff Harry S. Truman",
+        "description": "Lover of Josie Packard and friend of Cooper. Helps him solve the Laura Palmer case.",
+        "actor": "Michael Ontkean"
+    },
+    {
+        "name": "Deputy Andy Brennan",
+        "description": "Dorky but brave deputy, on and off relationship with Lucy. Possibly father of her baby. Deciphered the Owl Cave petroglyph as a map.",
+        "actor": "Harry Goaz"
+    },
+    {
+        "name": "Deputy Tommy \"Hawk\" Hill",
+        "description": "Native American, expert tracker",
+        "actor": "Michael Horse"
+    },
+    {
+        "name": "Lucy Moran",
+        "description": "Ditzy receptionist, on and off relationship with Deputy Brennan.",
+        "actor": "Kimmy Robertson"
+    },
+    {
+        "name": "Cappy",
+        "description": "Young, male assistant at the police station",
+        "actor": "Ron Kirk"
+    },
+    {
+        "name": "Laura Palmer",
+        "description": "Murder victim and the center of the story, linked to almost everyone in Twin Peaks",
+        "actor": "Sheryl Lee"
+    },
+    {
+        "name": "Leland Palmer",
+        "description": "Laura's father, vessel for BOB, lawyer by profession and counsel for Ben Horne and the Great Northern Lodge.",
+        "actor": "Ray Wise"
+    },
+    {
+        "name": "Sarah Palmer",
+        "description": "Laura's mother",
+        "actor": "Grace Zabriskie"
+    },
+    {
+        "name": "Maddy Ferguson",
+        "description": "Laura's nearly identical cousin",
+        "actor": "Sheryl Lee"
+    },
+    {
+        "name": "Doctor William Hayward",
+        "description": "local practitioner in Twin Peaks, assists on the autopsy of Laura Palmer",
+        "actor": "Warren Frost"
+    },
+    {
+        "name": "Eileen Hayward",
+        "description": "Doctor Hayward's wheelchair-bound wife",
+        "actor": "Mary Jo Deschanel"
+    },
+    {
+        "name": "Donna Hayward",
+        "description": "Laura's best friend, lover of James Hurley",
+        "actor": "Lara Flynn Boyle/Moira Kelly"
+    },
+    {
+        "name": "Harriet Hayward",
+        "description": "Donna's younger sister",
+        "actor": "Jessica Wallenfels"
+    },
+    {
+        "name": "Gersten Hayward",
+        "description": "Donna's youngest sister",
+        "actor": "Alicia Witt"
+    },
+    {
+        "name": "Ben Horne",
+        "description": "Wealthy businessman, owns Great Northern Hotel, Horne's Department Store and a brothel on the Canada–US border",
+        "actor": "Richard Beymer"
+    },
+    {
+        "name": "Jerry Horne",
+        "description": "Ben's playboy brother and business partner",
+        "actor": "David Patrick Kelly"
+    },
+    {
+        "name": "Sylvia Horne",
+        "description": "Ben's constantly angry wife",
+        "actor": "Jan D'Arcy"
+    },
+    {
+        "name": "Audrey Horne",
+        "description": "Ben's sultry teenage daughter",
+        "actor": "Sherilyn Fenn"
+    },
+    {
+        "name": "Johnny Horne",
+        "description": "Ben's mentally handicapped son, tutored by Laura",
+        "actor": "Robert Davenport/Robert Bauer"
+    },
+    {
+        "name": "Josie Packard",
+        "description": "Widowed sawmill owner with a dark past, lover of Sheriff Truman, tutored by Laura",
+        "actor": "Joan Chen"
+    },
+    {
+        "name": "Andrew Packard",
+        "description": "Late owner of the Packard Sawmill and husband of Josie",
+        "actor": "Dan O'Herlihy"
+    },
+    {
+        "name": "Catherine Martell",
+        "description": "Sister of Andrew, schemes with secret lover Ben Horne to burn down the sawmill",
+        "actor": "Piper Laurie"
+    },
+    {
+        "name": "Pete Martell",
+        "description": "Long-suffering husband of Catherine, fishing and chess enthusiast, found Laura's body",
+        "actor": "Jack Nance"
+    },
+    {
+        "name": "Major Garland Briggs",
+        "description": "Intelligent and gifted Air Force officer involved in Project Blue Book, monitoring of deep-space and the woods surrounding Twin Peaks",
+        "actor": "Don S. Davis"
+    },
+    {
+        "name": "Betty Briggs",
+        "description": "Unassuming and loving wife and mother",
+        "actor": "Charlotte Stewart"
+    },
+    {
+        "name": "Bobby Briggs",
+        "description": "Rebellious teenager, captain of the football team, boyfriend of Laura Palmer, secret lover of Shelly Johnson",
+        "actor": "Dana Ashbrook"
+    },
+    {
+        "name": "Big Ed Hurley",
+        "description": "Owner of Big Ed's Gas Farm, secret lover of Norma Jennings",
+        "actor": "Everett McGill"
+    },
+    {
+        "name": "Nadine Hurley",
+        "description": "Ed's one-eyed, super-strong, curtain drape-obsessed wife",
+        "actor": "Wendy Robie"
+    },
+    {
+        "name": "James Hurley",
+        "description": "Ed's nephew, secret lover of Laura Palmer, later lover of Donna Hayward",
+        "actor": "James Marshall"
+    },
+    {
+        "name": "Norma Jennings",
+        "description": "Double-R Diner owner, lover of Big Ed Hurley, organizer of Meals on Wheels with Laura",
+        "actor": "Peggy Lipton"
+    },
+    {
+        "name": "Hank Jennings",
+        "description": "Norma's husband, convicted criminal on parole, conspirator with Josie Packard",
+        "actor": "Chris Mulkey"
+    },
+    {
+        "name": "Vivian Smythe Niles",
+        "description": "Mother of Norma and Annie, is secretly a food critic",
+        "actor": "Jane Greer"
+    },
+    {
+        "name": "Annie Blackburn",
+        "description": "Younger sister of Norma, an ex-nun with a troubled past",
+        "actor": "Heather Graham"
+    },
+    {
+        "name": "Leo Johnson",
+        "description": "Wife-abusing Trucker and drug-runner, had a sexual relationship with Laura Palmer",
+        "actor": "Eric Da Re"
+    },
+    {
+        "name": "Shelly Johnson",
+        "description": "Abused young wife of Leo, waitress at Norma's diner, secret lover of Bobby Briggs",
+        "actor": "Mädchen Amick"
+    },
+    {
+        "name": "Jacques Renault",
+        "description": "Canadian croupier, drug-runner, and bartender at the Roadhouse. Had sexual relationship with Laura Palmer",
+        "actor": "Walter Olkewicz"
+    },
+    {
+        "name": "Bernard Renault",
+        "description": "Youngest Renault brother, mules drugs over the border",
+        "actor": "Clay Wilcox"
+    },
+    {
+        "name": "Jean Renault",
+        "description": "Oldest and most dangerous Renault brother, veteran criminal, insurance agent.",
+        "actor": "Michael Parks"
+    },
+    {
+        "name": "Blackie O'Reilly",
+        "description": "Madam of One Eyed Jacks",
+        "actor": "Victoria Catlin"
+    },
+    {
+        "name": "Nancy O'Reilly",
+        "description": "Blackie's sister, lover of Jean Renault",
+        "actor": "Galyn Görg"
+    },
+    {
+        "name": "Ronette Pulaski",
+        "description": "former employee of Horne's Department Store and One Eyed Jacks, was with Laura the night she died",
+        "actor": "Phoebe Augustine"
+    },
+    {
+        "name": "Dr. Lawrence Jacoby",
+        "description": "Eccentric former psychiatrist of Laura with an obsession for Hawaii",
+        "actor": "Russ Tamblyn"
+    },
+    {
+        "name": "Mike Nelson",
+        "description": "Bobby's best friend, high school wrestling champ, ex-boyfriend of Donna.",
+        "actor": "Gary Hershberger"
+    },
+    {
+        "name": "Margaret Lanterman\n a.k.a. \"The Log Lady\")",
+        "description": "Mystic, widow who divines through a log she carries with her everywhere",
+        "actor": "Catherine E. Coulson"
+    },
+    {
+        "name": "Harold Smith",
+        "description": "Agoraphobic horticulturist, Laura's Meals on Wheels friend",
+        "actor": "Lenny Von Dohlen"
+    },
+    {
+        "name": "Emory Battis",
+        "description": "Store manager of Horne's Department Store, recruits girls from the perfume counter to work at One Eyed Jack's",
+        "actor": "Don Amendolia"
+    },
+    {
+        "name": "Dick Tremayne",
+        "description": "Pretentious employee of Men's Department at Horne's, ex-lover of Lucy",
+        "actor": "Ian Buchanan"
+    },
+    {
+        "name": "The Elderly Room Service Waiter",
+        "description": "Elderly bellhop at the Great Northern with a link to the Lodges and the Giant in particular. Nicknamed Señor Droolcup by Albert Rosenfield.",
+        "actor": "Hank Worden"
+    },
+    {
+        "name": "Roadhouse Singer",
+        "description": "Angelic singer at the Roadhouse, known for her dream-like voice",
+        "actor": "Julee Cruise"
+    },
+    {
+        "name": "Mayor Dwayne Milford",
+        "description": "Long-time mayor of Twin Peaks, has an ongoing feud with his brother Dougie",
+        "actor": "John Boylan"
+    },
+    {
+        "name": "Dougie Milford",
+        "description": "Publisher of the Twin Peaks Gazette local newspaper, known to marry often",
+        "actor": "Tony Jay"
+    },
+    {
+        "name": "Lana Budding Milford",
+        "description": "Seductive fiancée of Dwayne, and widow of Dougie, known to charm almost any man that's around her",
+        "actor": "Robyn Lively"
+    },
+    {
+        "name": "Evelyn Marsh",
+        "description": "Rich woman who James Hurley runs into, and who is beaten by her husband",
+        "actor": "Annette McCarthy"
+    },
+    {
+        "name": "Malcolm Sloan",
+        "description": "A man pretending to be Evelyn's brother.",
+        "actor": "Nicholas Love"
+    },
+    {
+        "name": "Thomas Eckhardt",
+        "description": "Former business partner of Andrew Packard, obsessively in love with Josie Packard",
+        "actor": "David Warner"
+    },
+    {
+        "name": "Jones",
+        "description": "Thomas Eckhardt's assistant",
+        "actor": "Brenda Strong"
+    },
+    {
+        "name": "Teresa Banks",
+        "description": "First victim, found almost exactly one year before the murder of Laura Palmer",
+        "actor": "Pamela Gidley"
+    },
+    {
+        "name": "Windom Earle",
+        "description": "Psychotic but brilliant ex-partner of Cooper, desires the powers of the Lodges",
+        "actor": "Kenneth Welsh"
+    },
+    {
+        "name": "John Justice Wheeler",
+        "description": "Friend of Ben Horne and later falls in love with Audrey Horne",
+        "actor": "Billy Zane"
+    },
+    {
+        "name": "Judy Swain",
+        "description": "Foster care aid for orphan child",
+        "actor": "Molly Shannon"
+    },
+    {
+        "name": "The Man from Another Place",
+        "description": "Enigmatic dwarf, inhabitant of the Red Room.",
+        "actor": "Michael J. Anderson"
+    },
+    {
+        "name": "MIKE",
+        "description": "Spirit, former associate and now opponent of BOB, inhabits shoe salesman Phillip Gerard, \"The One-Armed Man\"",
+        "actor": "Al Strobel"
+    },
+    {
+        "name": "BOB",
+        "description": "Malevolent spirit, haunts the woods and inhabits humans, killer of Laura.",
+        "actor": "Frank Silva"
+    },
+    {
+        "name": "The Giant",
+        "description": "A supernatural giant who appears at key moments and provides Cooper with cryptic clues.",
+        "actor": "Carel Struycken"
+    },
+    {
+        "name": "Mrs Tremond/Chalfont",
+        "description": "Link to the Lodges and intentions unclear",
+        "actor": "Frances Bay"
+    },
+    {
+        "name": "Pierre Tremond/Chalfont",
+        "description": "Mrs Tremond/Chalfont's grandson, link to the Lodges and intentions unclear",
+        "actor": "Austin Jack Lynch/Jonathan J. Leppell"
+    }
+]
