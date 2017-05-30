@@ -1,12 +1,12 @@
 import React from 'react';
 
-import SearchInput from './search-input';
+import SearchForm from './search-form';
 import CharacterList from './character-list';
 
 export default function LiveSearch(props) {
     return (
         <div className="live-search">
-            <SearchInput />
+            <SearchForm />
             <CharacterList characters={props.characters} />
         </div>
     );
