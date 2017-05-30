@@ -6,7 +6,7 @@ export default function CharacterList(props) {
             <strong>{character.name}</strong> ({character.actor}) - {character.description}</li>
     );
     return (
-        <ul className="character-list">
+        <ul className="character-list" aria-live="polite">
             {characters}
         </ul>
     );
