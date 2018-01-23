@@ -4,3 +4,6 @@ export default function SurpriseButton(props) {
   return <button onClick={() => props.onBtnClick()}>Surprise!</button>;
 }
 
+SurpriseButton.defaultProps = {
+  color: 'blue'
+};
