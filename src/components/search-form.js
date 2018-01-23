@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function SearchForm(props) {
-    return (
+  return (
         <form onSubmit={e => e.preventDefault()}>
             <label htmlFor="search">Search</label>&emsp;
             <input
@@ -10,7 +10,8 @@ export default function SearchForm(props) {
                 id="search"
                 name="search"
                 placeholder="Dale Cooper"
+                onKeyUp={ e => props.onUserInput(e.currentTarget.value)}
             />
         </form>
-    );
+  );
 }
