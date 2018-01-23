@@ -14,38 +14,30 @@ export default class LiveSearch extends React.Component {
     };
   }
 
-  filterCharacters() {
+  filterCharacters(value) {
     console.log('filterCharacters called');
     console.log(this.state.foundCharacters);
-
-    if(this.state.userInput === '' ){
+    if(value == '' ){
       console.log('the input was blank... reset foundCharacters');
       console.log(this.props.characters);
       this.setState({foundCharacters: this.props.characters});
-    }
+    } else {
 
-    console.log('input given... filtering list!');
-    const filtered = this.state.foundCharacters.filter(c =>
-      c.name.toLowerCase().includes(this.userInput)
+      console.log('input given... filtering list!');
+      console.log('searching for', value);
+      const filtered = this.state.foundCharacters.filter(c =>
+      c.name.toLowerCase().includes(value)
     );
 
-    this.setState({foundCharacters: filtered});
+      this.setState({foundCharacters: filtered});
+    }
   }
 
   updateUserInput(value){
     console.log('updateUserInput called');
-    // console.log(value);
-    this.setState({userInput: value.toLowerCase()});
-    this.filterCharacters();
+    console.log(value.toLowerCase());
+    this.setState({userInput: value.toLowerCase()}, this.filterCharacters(value.toLowerCase()));
   }
-
-  /*
-  1. create an onUpdate method which will give us the last letter typed
-  2. list of letters that typed 
-  3. filter characters where 
-  4.
-  // Maybe use this: peaks.filter(c => c.name.toLowerCase().includes('mi')) and toLowerCase input field as well
-  */
 
   render() {
     return (
