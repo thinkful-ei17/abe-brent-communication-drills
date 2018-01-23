@@ -4,12 +4,16 @@ import SurpriseButton from './surprise-button';
 import SurpriseImage from './surprise-image';
 
 export default class Surprise extends React.Component {
-    constructor(props) {
-        super(props);
-    }
+  constructor(props) {
+    super(props);
+  }
 
-    render() {
+  toggleBtn(){
+    console.log('Surprise!');
+  }
+
+  render() {
         // Show the button to start with
-        return <SurpriseButton />;
-    }
+    return <SurpriseButton onBtnClick={() => this.toggleBtn()} />;
+  }
 }
